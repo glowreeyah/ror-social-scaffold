@@ -8,6 +8,9 @@
 - Ruby v2.7.0
 - Ruby on Rails v5.2.4.2
 
+> In this project, we designed an [ERD diagram](https://github.com/glowreeyah/ror-social-scaffold/blob/feature/milestone1/docs/ERD%20.pdf) which visually displays the database schema and structure.
+
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
