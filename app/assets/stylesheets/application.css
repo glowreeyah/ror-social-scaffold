@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ .friend-icon{
+  width: 30px;
+  margin-left: 20px;
+}
+
+.flex{
+  display: flex;
+} 
